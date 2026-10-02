@@ -1,12 +1,12 @@
-# Hi, I'm Chanchal Tripathi 👋
+# Hi, I'm Chanchal Tripathi 
 
-### Senior SDET | Test Automation Lead | Quality Engineering
+### Senior SDET | QA Automation & Quality Engineering
 
-Quality Engineering professional with **10+ years of experience** across **Healthcare, iGaming, BFSI and enterprise applications**, with experience leading QA engineers and building scalable UI and API automation.
+Senior SDET and Quality Engineering Lead with 11 years of experience across **Healthcare, iGaming, BFSI and enterprise applications**, with experience leading QA engineers and building scalable UI and API automation.
 
 I focus on modern automation architecture, faster feedback, CI/CD quality, and practical use of **AI-assisted testing**.
 
-## 🚀 Core Tech Stack
+##  Core Tech Stack
 
 **Automation & Testing**  
 Playwright • TypeScript • Selenium • Java • REST Assured • TestNG • Cucumber • PyTest • Postman • GraphQL • API Testing
@@ -20,7 +20,7 @@ UI + API Automation • Automation Framework Design • Cross-Browser Testing �
 **AI & Emerging Quality Engineering**  
 GitHub Copilot • AI-Assisted Test Development • Agentic Testing • LLM Evaluation • Self-Healing Automation Concepts
 
-## 🧪 What I Bring to Quality Engineering
+##  What I Bring to Quality Engineering
 
 - Design and maintain scalable automation frameworks for business-critical applications
 - Build reusable **Playwright + TypeScript** and **Selenium + Java** automation
@@ -34,22 +34,22 @@ GitHub Copilot • AI-Assisted Test Development • Agentic Testing • LLM Eval
 
 ## 🌟 Featured Work
 
-### 🤖 AI Playwright Quality Framework
+###  AI Playwright Quality Framework
 [Explore the project](https://github.com/Chanchal-Tripathi/ai-playwright-quality-framework)
 
 A portfolio project exploring modern quality engineering with **Playwright, TypeScript and AI-assisted testing concepts**.
 
-### ☕ Selenium Advanced Automation
+###  Selenium Advanced Automation
 [Explore the project](https://github.com/Chanchal-Tripathi/LambdaTest_Selenium_Advanced)
 
 Hands-on Selenium automation demonstrating Java-based browser testing and advanced automation concepts.
 
-### ✈️ UI Automation Project
+###  UI Automation Project
 [Explore the project](https://github.com/Chanchal-Tripathi/SpiceJet)
 
 Browser automation project demonstrating practical end-to-end UI testing scenarios.
 
-## 🧠 Currently Exploring
+##  Currently Exploring
 
 - AI Agents for Software Testing
 - LLM and RAG Evaluation
@@ -59,9 +59,9 @@ Browser automation project demonstrating practical end-to-end UI testing scenari
 - Kafka / Event-Driven Testing
 - Dockerized Test Execution
 
-## 🏆 Career Highlights
+##  Career Highlights
 
-- **10+ years** in Software Quality Engineering
+- **11 years** in Software Quality Engineering
 - Experience across **BFSI, CRM, iGaming and Healthcare**
 - Led and mentored QA engineers
 - Experience modernizing automation from **Selenium toward Playwright**
@@ -69,11 +69,11 @@ Browser automation project demonstrating practical end-to-end UI testing scenari
 - Strong focus on automation strategy, maintainability and CI/CD feedback
 - Recipient of **Top Talent of the Year 2022**
 
-## 💡 Engineering Philosophy
+##  Engineering Philosophy
 
 > Quality engineering is not about automating the largest number of test cases. It is about building fast feedback, identifying risk early and giving teams confidence to release.
 
-## 🎯 Career Interests
+##  Career Interests
 
 Interested in opportunities involving:
 
@@ -89,4 +89,4 @@ Particularly interested in roles involving **Playwright, API automation, automat
 
 I enjoy discussing **test automation architecture, Playwright, API quality, CI/CD and AI in software testing**.
 
-⭐ Explore my repositories below to see my automation work.
+ Explore my repositories below to see my automation work.
